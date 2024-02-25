@@ -13,7 +13,7 @@ Dataset
 The dataset used in this project contains the following columns:
 
 TV: TV Prices
-sales: sales of the TV (target variable)
+sales: sales of the TV
 Project Workflow
 Data Collection: Collect or generate a dataset containing information about TVs including their specifications and prices.
 Data Preprocessing: Clean the dataset, handle missing values, and encode categorical variables if necessary.
