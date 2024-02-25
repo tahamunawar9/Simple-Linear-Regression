@@ -12,7 +12,7 @@ scikit-learn: Machine learning library for implementing linear regression model
 Dataset
 The dataset used in this project contains the following columns:
 
-TV: model number
+TV: TV Prices
 sales: sales of the TV (target variable)
 Project Workflow
 Data Collection: Collect or generate a dataset containing information about TVs including their specifications and prices.
